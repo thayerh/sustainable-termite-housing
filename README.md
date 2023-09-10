@@ -1,5 +1,7 @@
 # Sustainale Termite Housing
 
+https://github.com/thayerh/sustainable-termite-housing/assets/111394439/74c0f4b9-a729-4ecd-9996-45eb88c216cf
+
 ## Overview
 This MATLAB script simulates heat transfer in an underground mound structure, depicting how heat flows through tunnels and pores. The simulation visualizes temperature changes over time, providing insight into the behavior of heat in such environments.
 
